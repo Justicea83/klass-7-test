@@ -1,0 +1,14 @@
+{
+  "development": {
+    "url": "postgres://postgres:majesty22@127.0.0.1:5433/klass7",
+    "dialect": "postgres"
+  },
+  "test": {
+    "url": "postgres://postgres:majesty22@127.0.0.1:5433/klass7",
+    "dialect": "postgres"
+  },
+  "production": {
+    "url": "postgres://postgres:majesty22@127.0.0.1:5433/klass7",
+    "dialect": "postgres"
+  }
+}
